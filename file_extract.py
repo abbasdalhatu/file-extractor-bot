@@ -396,7 +396,7 @@ def main():
     # ============================================================
     # >>> CONFIGURE THESE TWO VALUES <<<
     # ============================================================
-    BOT_TOKEN = "8890514548:AAEEgNZnJPD1Ef1uYkKCjXVPRE5Bs3bvCB0"
+    BOT_TOKEN = "YOUR_BOT_TOKEN"
     CHAT_ID = "YOUR_CHAT_ID_HERE"  # <-- REPLACE with your actual chat ID
     # ============================================================
     
